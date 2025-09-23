@@ -27,7 +27,7 @@
   <table>
     <tr>
       <th>Name</th>
-      <td>John Smith</td>
+      <td>Robel Hadgu</td>
     </tr>
     <tr>
       <th>Introduction</th>
